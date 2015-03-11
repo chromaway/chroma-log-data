@@ -1,6 +1,6 @@
 {
   "name": "chroma-log-data",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Log data via ChromaWay log service",
   "main": "index.js",
   "scripts": {
