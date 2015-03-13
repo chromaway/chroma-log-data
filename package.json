@@ -1,6 +1,10 @@
 {
   "name": "chroma-log-data",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chromaway/chroma-log-data.git"
+  },
   "description": "Log data via ChromaWay log service",
   "main": "index.js",
   "scripts": {
