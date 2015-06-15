@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "chroma-log-data": "git://github.com/chromaway/chroma-log-data.git#v0.1.3"
+  }
+}
