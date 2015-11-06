@@ -3,7 +3,7 @@
     "request": "browser-request"
   }, 
   "license": "ISC", 
-  "version": "0.1.3", 
+  "version": "0.1.4",
   "repository": {
     "url": "git://github.com/chromaway/chroma-log-data.git", 
     "type": "git"
